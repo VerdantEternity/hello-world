@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Just preparing for the robot uprising
